@@ -214,6 +214,26 @@ nextjs-blog/
 └── public/              # Static assets
 ```
 
+## Project Screenshots
+
+### Login
+![image](https://github.com/user-attachments/assets/543b2b8f-c0e0-493d-89a0-106b3dd208b5)
+
+### Index
+![image](https://github.com/user-attachments/assets/007616a1-8e9a-48a2-8223-9b34d6e34b45)
+
+### Create Post
+![image](https://github.com/user-attachments/assets/353393e9-a20a-4dd3-abd6-81b1eb8bb465)
+
+### Edit Post
+![image](https://github.com/user-attachments/assets/d8cbd2c4-5cb4-4ec9-b871-0f037055c23c)
+
+### Profile
+![image](https://github.com/user-attachments/assets/d230a3a1-bdc0-4bec-9f28-94b8d8e709f5)
+
+### Edit Profile
+![image](https://github.com/user-attachments/assets/9ea65bcd-cd4f-47a9-875e-817a01093510)
+
 ---
 
 This project satisfies all the requirements from the take-home assignment, including the bonus points. I had fun building it and learned a lot about working with Next.js, Supabase, and GraphQL together!
